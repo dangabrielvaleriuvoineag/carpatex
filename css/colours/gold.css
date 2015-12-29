@@ -1,0 +1,111 @@
+.top-bar {
+	border-top: #D50006 6px solid;
+}
+.top-bar2 {
+	border-top: #F2D040 6px solid;
+}
+
+.social-links li i,
+.navigation li ul li a:hover,
+.title-block,
+.main-content table th,
+.single_add_to_cart_button,
+.qty-fields .plusminus,
+.link-arrow,
+.onsale,
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.swiper-active-switch,
+.newsletter-form input[type="submit"],
+.social-links-footer li i:hover,
+.mobile-nav li i,
+.blog-post-wrapper .more-link,
+.button2,
+.button4,
+.button6,
+.submit-button,
+.contact-widget .phone-icon:before,
+.contact-widget .fax-icon:before,
+.contact-widget .email-icon:before,
+.contact-widget .address-icon:before,
+.view-order-button,
+.button1:hover,
+.button3:hover,
+.button5:hover,
+.pp_close,
+.qty-small .plusminus,
+.coupon-code-button,
+.update-cart-button,
+.proceed-checkout-button {
+	background: #DEBC62;
+}
+
+.flex-control-paging li a.flex-active {
+	background: #DEBC62 !important;
+}
+
+.cart-tab {
+	background: url(../../images/icon_25562.svg) no-repeat #DEBC62;
+	background-size: 32px 29px;
+	background-position: center 7px;
+}
+
+#logo a {
+	color: #DEBC62;
+}
+
+.navigation li.current-menu-item,
+.navigation li:hover,
+.main-content blockquote,
+.ui-tabs .ui-tabs-nav li.ui-state-active,
+.button1:hover,
+.button3:hover,
+.button5:hover,
+.your-order-wrapper,
+.order-item-wrapper-last,
+.page-pagination li span.current,
+.page-pagination li a:hover {
+	
+}
+
+.main-content a,
+.large-quote-wrapper blockquote .quoteopen,
+ .large-quote-wrapper blockquote .quoteclose,
+.star-1:hover:after,
+.star-2:hover:after,
+.star-3:hover:after,
+.star-4:hover:after,
+.star-5:hover:after {
+	color: #DEBC62;
+}
+
+.add-rating:before {
+	color: #DEBC62 !important;
+}
+
+.link-blocks .link-block-2,
+.link-blocks .link-block-3,
+.newsletter-wrapper,
+#footer,
+.mobile-menu-wrapper,
+.cart-side-wrapper {
+	 background: url("../../images/bg.jpg");
+}
+
+.social-links-footer li i,
+a.cart-side-button {
+	color: #999;
+}
+
+#footer .twitter-feed li .tweet-time,
+#footer .twitter-feed li a {
+	color: #80986a;
+}
+
+.slider-caption p.colour-caption1 {
+	background: rgba(222, 188, 98, 0.8);
+}
+
+.slider-caption p.colour-caption2 {
+	background: rgba(222, 188, 98, 0.8);
+}
